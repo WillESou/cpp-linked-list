@@ -1,2 +1,2 @@
 # cpp-linked-list
-Simple templated linked-list in C++
+A simple templated linked-list in C++
